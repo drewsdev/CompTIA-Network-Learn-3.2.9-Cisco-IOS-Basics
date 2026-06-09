@@ -8,7 +8,7 @@ Finding and entering commands:
 3. If the output from a command exceeds the screen, you will see --More-- at the bottom. Try using the Enter or space bar keys to navigate the output.  
     * Answer question 1.  
 4. To create a shortcut, you need to find characters that uniquely identify a command. For example, type s? to see commands that start with the letter s. Notice that sh would uniquely identify the show command. Type sh h? and you can see that show history can be replaced with sh hi or sh hist.  
-  * Type sh v?, and answer question 2.  
+    * Type sh v?, and answer question 2.  
 
 Navigating router modes:
 

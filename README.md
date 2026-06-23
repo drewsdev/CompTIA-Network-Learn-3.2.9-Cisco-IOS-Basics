@@ -1,4 +1,4 @@
-# CompTIA-Network-Learn-3.2.9-Cisco-IOS-Basics
+# CompTIA-Network-Learn-3.2.9-Lab-Cisco-IOS-Basics
 ## CompTIA CertMaster Learn v9.1
 
 Finding and entering commands:
